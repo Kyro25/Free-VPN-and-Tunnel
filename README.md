@@ -27,7 +27,7 @@ QubitVPN provides fast, secure, and reliable VPN services combined with tunnelin
 Head over to the registration page to sign up for the free plan beta:  
 [QubitVPN Free Registration](https://extra.splicate.com/qubitvpn-free-registration)
 
-### 2. **Download QubitVPN Client:**
+### 2. **Download WireGuard Client:**
 After registering, download the QubitVPN client for your platform (Windows, macOS, Linux, etc.).  
 [Download WireGuard](https://www.wireguard.com/install/)
 
