@@ -1,8 +1,3 @@
-# Free-VPN-and-Tunnel
-QubitVPN - Free VPN and Tunneling Service for Hosting Websites, Game Servers, and Applications.
-
-
-
 # QubitVPN - Free Plan Beta
 
 QubitVPN is a powerful VPN and tunneling service that allows you to access secure networks, bypass restrictions, and expose your local services to the public internet. With the Free Plan Beta, users can get access to a free port on a public IP, enabling them to host websites, game servers, applications, and more, without the need for complex configurations.
