@@ -51,7 +51,8 @@ Configure your local services (such as web servers or game servers) to use the f
 - **No Hidden Fees**: The free plan provides genuine value without any hidden charges or limitations.
 - **Easy Setup**: With an intuitive interface and simple registration, you can get started in minutes.
 - **Community Support**: Join a growing community of users who share tips, best practices, and troubleshooting help.
-    Join the [Splicate Discord](https://www.splicate.com/discord)
+  
+    Join the [Splicate Discord](https://www.splicate.com/discord).
 
 ## 📞 Contact & Support
 For any issues or questions, you can reach out to our support team at:  
